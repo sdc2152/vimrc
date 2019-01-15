@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/spencerchristensen/Documents/school_stuff/fall_2017/database/my_scripts/week1'
+let g:netrw_dirhist_2='/Users/spencerchristensen/Documents/school_stuff/fall_2017/database/my_scripts'
+let g:netrw_dirhist_3='/Users/spencerchristensen/Documents/school_stuff/fall_2017/database/my_scripts/week1'
+let g:netrw_dirhist_4='/Users/spencerchristensen/Documents/school_stuff/fall_2017/database/my_scripts'
+let g:netrw_dirhist_5='/Users/spencerchristensen/Documents/school_stuff/fall_2017/database'
+let g:netrw_dirhist_6='/Users/spencerchristensen/Documents/school_stuff/fall_2017/database/my_scripts'
+let g:netrw_dirhist_7='/Users/spencerchristensen/Documents/school_stuff/fall_2017/database/my_scripts/week1'
